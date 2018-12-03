@@ -1,5 +1,3 @@
 rrr
 yes
-nova
-master
-bla
+op
